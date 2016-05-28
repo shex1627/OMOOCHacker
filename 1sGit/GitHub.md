@@ -8,4 +8,4 @@
 
 ## 使用
 
-## 体验: testing2
+## 体验: git remote testing
